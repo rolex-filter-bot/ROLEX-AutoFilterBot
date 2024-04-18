@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/72d3cbd3ef6154fb780cb.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/c6f79998e829fa0829eb1.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>TechMagazine AutoFilter Bot</b>
+  <b>ROLEX AutoFilter Bot</b>
 </h1>
 
 
@@ -47,11 +47,11 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/gNCd8xuNgM8)**</i>
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/itsyogieu/TechMagazine-AutoFilterBot&branch=master&name=tmafbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/rolex-filter-bot/ROLEX-AutoFilterBot&branch=master&name=rolexfilterbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
-<a target="_blank" href="https://render.com/deploy?repo=https://github.com/itsyogieu/TechMagazine-AutoFilterBot"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
+<a target="_blank" href="https://render.com/deploy?repo=https://github.com/rolex-filter-bot/ROLEX-AutoFilterBot/tree/master"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
 
-<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/itsyogieu/TechMagazine-AutoFilterBot"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://heroku.com/deploy/?template=https://rolex-filter-bot/ROLEX-AutoFilterBot"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 
 
 <p>
