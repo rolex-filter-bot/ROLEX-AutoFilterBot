@@ -1,27 +1,27 @@
 services:
   - type: web
     plan: free
-    name: TechMagazineAutoFilterBot
+    name: RolexAutoFilterBot
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
-    repo: https://github.com/itsyogieu/TechMagazineAutoFilterBot.git      
+    repo: https://github.com/rolex-filter-bot/ROLEX-AutoFilterBot.git      
     branch: master
     envVars:
-      - key: BOT_TOKEN 
-        sync: false
-      - key: API_ID 
-        sync: false
-      - key: API_HASH
-        sync: false
-      - key: ADMINS
-        sync: false
-      - key: DATABASE_NAME
-        sync: false
-      - key: DATABASE_URI
-        sync: false 
-      - key: PICS
-        sync: false
-      - key: LOG_CHANNEL
-        sync: false    
-    autoDeploy: false 
+      - key: 7078618228:AAGTQ7kfJg6UYl69nzFwaK8QRiDDF5Gp9jU
+        sync: true
+      - key: 28991562
+        sync: true
+      - key: 215d93eeacd3d1c704887f80b0b914f4
+        sync: true
+      - key: 6107997458
+        sync: true
+      - key: Cluster77
+        sync: true
+      - key: https://cloud.mongodb.com/v2/66e5b8f5c047941487476747#/clusters/detail/Cluster77
+        sync: true 
+      - key: https://telegra.ph/file/c6f79998e829fa0829eb1.jpg
+        sync: true
+      - key: 1001758430832
+        sync: true   
+    autoDeploy: true
