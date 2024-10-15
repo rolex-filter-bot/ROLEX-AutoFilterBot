@@ -1,4 +1,4 @@
-FROM python:3.11.2
+FROM python:3.10.7
 
 RUN apt update && apt upgrade -y
 RUN apt install git -y
